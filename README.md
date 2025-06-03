@@ -1,3 +1,4 @@
 # abcd
-
-echo HELLO
+ 
+HELLO WORLD
+dit is het examen
